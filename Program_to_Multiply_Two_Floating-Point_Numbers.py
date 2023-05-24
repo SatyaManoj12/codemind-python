@@ -1,4 +1,4 @@
 a=float(input())
 b=float(input())
-ans=a*b
-print("%.2f" %ans)
+c=a*b
+print("%0.2f"%c)
